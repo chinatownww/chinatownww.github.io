@@ -9,7 +9,7 @@
 						{{ .title | markdownify }}</h1>
 					<p class="wow fadeInUp" data-wow-duration="300ms" data-wow-delay="400ms">
 						{{ .description | markdownify }}</p>
-					{{ if .fullmenu }}<p><a href="{{ .fullmenu.link }}">{{ .fullmenu.title }}</a></p>{{end}}
+					{{ if .fullmenu }}<p><a type="button" class="btn btn-default" href="{{ .fullmenu.link }}">{{ .fullmenu.title }}</a></p>{{end}}
 					<div class="pricing-list">
 						<div class="title">
 							<h3>{{ .subtitle | markdownify }}</h3>

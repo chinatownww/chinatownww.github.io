@@ -53,7 +53,7 @@ blog:
 pricing:
   enable : true
   title : "Unsere Gerichte"
-  description: "Wählen Sie aus über 500 chinesischen und internationalen Gerichten. Alle unsere Gerichte werden für Sie frisch zubereitet."
+  description: "Wählen Sie aus einer Vielzahl an chinesischen und internationalen Gerichten. Alle unsere Gerichte werden für Sie frisch zubereitet."
   subtitle : "Unsere Spezialitäten"
   fullmenu:
     title: "Alle Gerichte"
