@@ -55,6 +55,9 @@ pricing:
   title : "Unsere Gerichte"
   description: "Wählen Sie aus über 500 chinesischen und internationalen Gerichten. Alle unsere Gerichte werden für Sie frisch zubereitet."
   subtitle : "Unsere Spezialitäten"
+  fullmenu:
+    title: "Alle Gerichte"
+    link: fullmenu
   pricing_item:
   - title: "F3 Gebratenes Lammfleisch  羊肉煲"
     description: "mit verschiedenem Gemüse, sehr scharf"
