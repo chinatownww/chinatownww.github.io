@@ -1,0 +1,96 @@
+################## Hero area ##################
+hero_area:
+  enable : true
+  bg_image : "images/header.jpg"
+  overlay : true
+
+################### Gallery ###################
+gallery:
+  enable : true
+  title : "Herzlich Willkommen"
+  images:
+    - big:   "images/slider/slider-img-1.jpg"
+      small: "images/slider/slider-img-1-small.jpg"
+    - big:   "images/slider/slider-img-3.jpg"
+      small: "images/slider/slider-img-3-small.jpg"
+    - big:   "images/slider/slider-img-2.jpg"
+      small: "images/slider/slider-img-2-small.jpg"
+    - big:   "images/slider/slider-img-4.jpg"
+      small: "images/slider/slider-img-4-small.jpg"
+    - big:   "images/slider/slider-img-5.jpg"
+      small: "images/slider/slider-img-5-small.jpg"
+    - big:   "images/slider/slider-img-6.jpg"
+      small: "images/slider/slider-img-6-small.jpg"
+    - big:   "images/slider/slider-img-7.jpg"
+      small: "images/slider/slider-img-7-small.jpg"
+    - big:   "images/slider/slider-img-1.jpg"
+      small: "images/slider/slider-img-1-small.jpg"
+
+################ About #######################
+about:
+  enable : true
+  image : "images/chef-img.png"
+  title : "Unser Angebot"
+  description : "
+China Restaurant \"China Town\" Im Hotel \"Zur guten Quelle\" im Stadtkern des idyllischen Städtchens Selters im Westerwald.
+Wir bieten Ihnen an: <br>
+- Täglich original Peking-Ente ohne Vorbestellung
+- Wir bieten auch eine internationale Küche, wie z.B. Pasta, Burger,Schnitzel etc. an
+- Catering & Partyservice (ab 10 Personen )
+- Lieferservice  ab 30,00€
+- Gesellschaftsraum für alle Feierlichkeiten, bis zu 40 Personen
+- Kostenlose WLAN-Verbindung steht zur Verfügung"
+
+################# Blog ######################
+blog:
+  enable : true
+  title : "Our Latest <span>Blog</span>"
+  bg_image : "images/blog/blog-bg.jpg"
+  overlay : true
+
+
+################# food Menu ################
+pricing:
+  enable : true
+  title : "Unsere Gerichte"
+  description: "Wählen Sie aus über 500 chinesischen und internationalen Gerichten. Alle unsere Gerichte werden für Sie frisch zubereitet."
+  subtitle : "Unsere Spezialitäten"
+  pricing_item:
+  - title: "F3 Gebratenes Lammfleisch  羊肉煲"
+    description: "mit verschiedenem Gemüse, sehr scharf"
+    price : "€ 17,90"
+
+  - title: "T4 Knusprig gebratene Enten  铁板炸鸭"
+    description: "mit verschiedenem Gemüse, Soße nach Wahl"
+    price : "€ 14,90"
+
+  - title: "70 Gebratene Garnelen  宫保虾球"
+    description: "mit Gemüse scharf, nach Gongbao Art"
+    price : "€ 18,50"
+
+  - title: "46 Gebratener Rindfleisch  沙茶牛肉"
+    description: "mit Gemüse Knoblauch, in Barbecuesoße, leicht scharf"
+    price : "€ 11,90"
+
+
+################### Subscription ################
+subscription:
+  enable : false
+  bg_image : "images/subscribe-bg.jpg"
+  title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
+  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
+  #Mailchimp subscription configaration 
+  form_action : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
+  formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
+  overlay : true
+
+################ Contact #######################
+contact:
+  enable : true
+  title: "Kontaktformular"
+  subtitle: "Haben Sie Fragen, Wünsche oder Anregungen?"
+  form_action : "#" #contact form works with formspree.io
+
+################ Find Us #######################
+findus:
+  enable : true
