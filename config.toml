@@ -135,16 +135,16 @@ image = "images/slider/slider-img-2.jpg"
 ######################## Social Icon 
 [[params.footer.socialLink]]
 icon = "facebook"
-link = "https://fb.com/themefisher"
+link = "https://www.hotel-zur-guten-quelle.com"
 
 [[params.footer.socialLink]]
 icon = "twitter"
-link = "https://fb.com/themefisher"
+link = "https://www.hotel-zur-guten-quelle.com"
 
 [[params.footer.socialLink]]
 icon = "dribbble"
-link = "https://fb.com/themefisher"
+link = "https://www.hotel-zur-guten-quelle.com"
 
 [[params.footer.socialLink]]
 icon = "instagram"
-link = "https://fb.com/themefisher"
+link = "https://www.hotel-zur-guten-quelle.com"
